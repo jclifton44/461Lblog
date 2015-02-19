@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cronentries>
+  <cron>
+    <url>/emails</url>
+    <description>Every one minute</description>
+    <schedule>every 1 minutes</schedule>
+    <timezone>America/Chicago</timezone>
+    <target>version-2</target>
+  </cron>
+</cronentries>
